@@ -14,5 +14,15 @@ LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Suggests: 
-    spelling
+    spelling,
+    testthat,
+    knitr,
+    rmarkdown
 Language: en-US
+Imports: 
+    dplyr,
+    purrr,
+    magrittr,
+    tibble,
+    ggplot2
+VignetteBuilder: knitr
