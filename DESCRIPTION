@@ -26,3 +26,5 @@ Imports:
     tibble,
     ggplot2
 VignetteBuilder: knitr
+URL: https://github.com/rressler/testpackagef20
+BugReports: https://github.com/rressler/testpackagef20/issues
